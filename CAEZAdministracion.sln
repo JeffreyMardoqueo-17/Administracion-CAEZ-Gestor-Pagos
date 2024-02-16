@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAEZAdministracionFrontend", "CAEZAdministracionFrontend\CAEZAdministracionFrontend.csproj", "{4BDE194B-B8D6-45EA-A15E-A3F1EAF3CDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDE194B-B8D6-45EA-A15E-A3F1EAF3CDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDE194B-B8D6-45EA-A15E-A3F1EAF3CDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDE194B-B8D6-45EA-A15E-A3F1EAF3CDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDE194B-B8D6-45EA-A15E-A3F1EAF3CDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCFEF4A-4FD1-4A7A-AE4C-83ED4C484000}
+	EndGlobalSection
+EndGlobal
