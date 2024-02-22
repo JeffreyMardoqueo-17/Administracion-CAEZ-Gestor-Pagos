@@ -1,7 +1,14 @@
+using CAEZAdministracionFrontend.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IAdministradorService, AdministradorService>();
+
+
+
+
 
 var app = builder.Build();
 
